@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Resolv',
   domain: 'resolv.specian.net',
-  author: 'NP',
+  author: 'Specian Tech Services',
 
   // open graph metadata (optional)
   description: 'Resolv - A Specian bot',
